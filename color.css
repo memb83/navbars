@@ -1,0 +1,93 @@
+
+
+.border{
+    border-color: firebrick;
+}
+
+
+ul.nav2 li a{
+    background-color: cornflowerblue;
+}
+ul.nav2 li a:hover{
+    background-color: navy;
+    color: paleturquoise;
+}
+
+
+ul.nav3 {
+    background-color: #080808;
+}
+ul.nav3 a{
+    color: antiquewhite;
+}
+ul.nav3 li a:hover{
+    background-color: #1F1F1F;
+}
+
+
+ul.nav4{
+    background-color: #ff581f;
+}
+ul.nav4 li{
+    border-right: 1px solid #000000;
+}
+ul.nav4 a{
+    color: #000000;
+}
+ul.nav4 li:first-child {
+    border-left: 1px solid #000000;
+}
+ul.nav4 li a:hover{
+    background-color: #b63e17;
+}
+
+
+ul.nav5{
+    background-color: #ff581f;
+}
+ul.nav5 li{
+    border-right: 1px solid #000000;
+}
+ul.nav5 a{
+    color: #000000;
+}
+ul.nav5 li:first-child {
+    border-left: 1px solid #000000;
+}
+ul.nav5 li a:hover{
+    background-color: #b63e17;
+}
+
+
+ul.nav6 {
+    background-color: #ff581f;
+}
+ul.nav6 li{
+    border-right: 1px solid #000000;
+}
+ul.nav6 a {
+    color: #000000;
+}
+ul.nav6 li:first-child {
+    border-left: 1px solid #000000;
+}
+ul.nav6 li a:hover {
+    background-color: #b63e17;
+}
+
+
+ul.nav7 {
+    background-color: #e1e1e1;
+}
+ul.nav7 li{
+    border-right: 1px solid #000000;
+}
+ul.nav7 a {
+    color: #000000;
+}
+ul.nav7 li:first-child {
+    border-left: 1px solid #000000;
+}
+ul.nav7 li a:hover {
+    background-color: #a4a4a4;
+}
